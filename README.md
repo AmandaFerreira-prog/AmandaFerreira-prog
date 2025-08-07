@@ -1,7 +1,7 @@
 ### Olá! Eu sou Amanda Ferreira
 
-- 🔭 Atualmente estou fazendo curso de Engenharia da Computação
-- 🌱 Estudando 
+- 🔭 Formada em Engenharia da Computação
+- 🌱  Sempre estudando 
 
 <div align="center">
   <a href="https://github.com/amandaferreira-prog">
